@@ -70,21 +70,25 @@ footer {
 }
 
 .moattravel2-link-danger {
-    color: #f2594b;
- }
- 
- .moattravel2-link-danger:hover {
-     color: #a63c3c;
- }
- 
- .moattravel2-btn-danger {
-     background-color: #f2594b !important;
-     transition: 0.1s;
- }
- 
- .moattravel2-btn-danger:hover {
-   opacity: 0.8;   
- }
+	color: #f2594b;
+}
+
+.moattravel2-link-danger:hover {
+	color: #a63c3c;
+}
+
+.moattravel2-btn-danger {
+	background-color: #f2594b !important;
+	transition: 0.1s;
+}
+
+.moattravel2-btn-danger:hover {
+	opacity: 0.8;
+}
+
+.moattravel2-dropdown-item:active {
+	background-color: #5196a6;
+}
 
 
 @media screen and (min-width: 1400px) {
